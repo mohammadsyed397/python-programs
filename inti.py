@@ -13,3 +13,5 @@ print("Modulus (Remainder):", result2)
 # Absolute Value
 result3 = abs(num2-num1)
 print("Absolute Value:", result3)
+print("Munna")
+
