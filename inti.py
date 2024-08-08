@@ -14,8 +14,12 @@ print("Modulus (Remainder):", result2)
 result3 = abs(num2-num1)
 print("Absolute Value:", result3)
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Munna")
 =======
 print("munna")
 >>>>>>> intiger
+=======
+
+>>>>>>> 67b8e513457df10214df50cdbde81ca4172af649
 
