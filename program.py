@@ -1,4 +1,4 @@
-name = "Mohammad"
+name = "munna"
 family = "Syed"
 concad = name + " " + family
 length = len(concad)
