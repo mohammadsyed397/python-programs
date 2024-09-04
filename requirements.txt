@@ -1,0 +1,3 @@
+sudo apt install python-3 pip
+sudo apt install python-3 pytest
+python -m pytest
